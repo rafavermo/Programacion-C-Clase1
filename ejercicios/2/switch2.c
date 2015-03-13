@@ -9,13 +9,13 @@
 void main()
 {
 	/* Declaración de variables */
-    int valor = 1;
+	int valor = 1;
 
 	/* Código usando condicional switch */
-    switch (valor)
+    	switch (valor)
 	{
-    case 0:
-    case 1:
+    	case 0:
+    	case 1:
 		printf("Se ha recibido un 0 o un 1\n");
 		break;
 	default:
